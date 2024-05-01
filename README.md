@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" height="180" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-👋 Heyy Folks !<br>📚 Myself Ammar Shaikh, an Enthusiastic Web Developer from Pune 📍<br>🖥️ I thrive on turning ideas into reality through code and creativity.<br>🚀 I enjoy tackling challenges head-on and constantly expanding my horizons in the ever-evolving world of technology. <br>
+👋 Heyy Folks !<br>📚 Myself Ammar Shaikh, an Enthusiastic Web Developer from Pune 📍<br>🖥️ 3rd yr Btech Student thriving to turn ideas into reality through code and creativity.<br>🚀 I enjoy tackling challenges head-on and constantly expanding my horizons in the ever-evolving world of technology. <br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
