@@ -3,7 +3,7 @@
     <div style="flex: 1;">
         👋 Heyy Folks !<br>
         📚 Myself Ammar Shaikh, an Enthusiastic Web Developer from Pune 📍<br>
-        🖥️ 3rd yr Btech Student thriving to turn ideas into reality through code and creativity.<br>
+        🖥️ 4th yr Btech Student thriving to turn ideas into reality through code and creativity.<br>
         🚀 I enjoy tackling challenges head-on and constantly expanding my horizons in the ever-evolving world of technology.
     </div>
     
